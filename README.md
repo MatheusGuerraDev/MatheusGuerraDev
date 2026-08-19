@@ -122,3 +122,9 @@
 <br>
 
 ### 📊 Estatísticas
+
+<img align="left"
+     alt="MatheusGuerraDev GitHub Stats"
+     height="180"
+     style="margin-right: 20px;"
+     src="https://github-readme-stats.vercel.app/api?username=MatheusGuerraDev&show_icons=true&theme=default&hide_border=false" />
