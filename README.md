@@ -130,3 +130,10 @@
   style="margin-right: 20px;"
   src="https://github-readme-stats-fast.vercel.app/api?username=MatheusGuerraDev&show_icons=true"
 />
+<img
+  align="left"
+  alt="Most Used Languages"
+  height="180"
+  style="margin-right: 20px;"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MatheusGuerraDev&layout=compact&langs_count=4&hide_border=false"
+/>
