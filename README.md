@@ -120,17 +120,4 @@
 />
 <br>
 <br>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="![MatheusGuerraDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusGuerraDev&show_icons=true)" 
-/>
-<br>
-<br>
-
-### 📊 Estatísticas
-
 
